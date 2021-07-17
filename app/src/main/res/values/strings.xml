@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">vamosRachar</string>
+    <string name="app_name">vamos Rachar</string>
+    <string name="vamosRachar">Vamos\nRachar!</string>
+    <string name="moeda"> R$ 0.00 </string>
+
+    <!--   Para tela landscape -->
+    <string name="vamosRacharLand">Vamos Rachar!</string>
+
 </resources>

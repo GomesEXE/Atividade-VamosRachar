@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vamos Rachar em ingles</string>
+    <string name="vamosRachar">Lets\nSplit!</string>
+    <string name="moeda"> USD 0.00 </string>
+
+    <!--   Para tela landscape -->
+    <string name="vamosRacharLand">Lets Split!</string>
+</resources>

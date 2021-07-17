@@ -3,6 +3,7 @@ package com.example.vamosrachar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
 import android.text.Editable;
@@ -116,4 +117,17 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
                     Toast.LENGTH_LONG).show();
         }
     }
+
+    /*
+    @Override
+    public void onConfigurationChanged (Configuration _novaConfig){
+        super.onConfigurationChanged(_novaConfig);
+
+        if (_novaConfig.orientation==Configuration.ORIENTATION_LANDSCAPE){
+            Toast t=Toast.makeText(this, "To deitado", Toast.LENGTH_LONG);
+            t.show();
+        }
+    }
+     */
+
 }
