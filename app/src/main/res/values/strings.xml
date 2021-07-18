@@ -6,4 +6,11 @@
     <!--   Para tela landscape -->
     <string name="vamosRacharLand">Vamos Rachar!</string>
 
+    <!--  Descriptions   -->
+    <string name="imgDinheiro">Insira valor total no campo a direita</string>
+    <string name="imgPessoa">Insira o numero de pessoas no campo a direira</string>
+
+    <string name="btnShare">Clique duas vezes para compartilhar</string>
+    <string name="btnSound">Clique duas vezes para escutar</string>
+
 </resources>

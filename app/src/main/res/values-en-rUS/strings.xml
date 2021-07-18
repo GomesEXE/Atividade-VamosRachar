@@ -6,4 +6,11 @@
 
     <!--   Para tela landscape -->
     <string name="vamosRacharLand">Lets Split!</string>
+
+    <!--  Descriptions   -->
+    <string name="imgDinheiro">Enter total amount in the field to the right</string>
+    <string name="imgPessoa">Enter the number of people in the field to the right</string>
+
+    <string name="btnShare">Double-click to share</string>
+    <string name="btnSound">Double-click to listen</string>
 </resources>
